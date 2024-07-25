@@ -23,7 +23,7 @@ Welcome to our AI Hackathon project repository! This project is focused on optim
 - Generative AI: GPT-4
 
 ### *Contact:*
-For any questions or inquiries, please contact us at [abhamahto2004@gamil.com].
+For any questions or inquiries, please contact us at [urbanlink2211@gamil.com].
 
 Thank you for checking out our project!
 
