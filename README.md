@@ -18,9 +18,9 @@ Welcome to our AI Hackathon project repository! This project is focused on optim
 ### *Technologies Used:*
 - Machine Learning: XGBoost Regression, Adam Optimizer
 - Data Visualization: Power BI
-- Web Development: [Technologies]
-- Database Management: [Technologies]
-- Generative AI: [Details]
+- Web Development: Fronted+backend
+- Database Management: SQL
+- Generative AI: GPT-4
 
 ### *Contact:*
 For any questions or inquiries, please contact us at [abhamahto2004@gamil.com].
