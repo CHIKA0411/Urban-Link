@@ -12,7 +12,7 @@ Welcome to our AI Hackathon project repository! This project is focused on optim
 - *Community Connector:* Features a calendar-based community connector to facilitate communication and scheduling among residents and maintenance teams.
 
 ### *Project Members:*
-- *ABHA MAHATO:* Backend development, machine learning, Generative AI.
+- *ABHA MAHATO[Chika0411]:* Backend development, machine learning, Generative AI.
 - *VIVEK KUMAR:* Frontend development, automated billing, and database management.
 
 ### *Technologies Used:*
