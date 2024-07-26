@@ -5,7 +5,7 @@ Welcome to our AI Hackathon project repository! This project is focused on optim
 
 ### *Key Features:*
 - *Predictive Maintenance:* Utilizes XGBoost Regression to predict maintenance needs and schedules, minimizing unexpected breakdowns and enhancing efficiency.
-- *Cost Optimization:* Implements the Adam optimizer to minimize costs associated with maintenance activities and resource allocation.
+- *Cost Optimization:* Implements the neural networks to minimize costs associated with maintenance activities and resource allocation.
 - *Automated Billing:* Automates the billing process using Power BI, ensuring accurate and timely billing for maintenance services.
 - *Resource Management:* Employs classification algorithms and database management to efficiently allocate resources and manage maintenance tasks.
 - *Resident Feedback Integration:* Integrates resident feedback through web development, backtracking to the database, and utilizing Generative AI for insights and improvements.
