@@ -14,7 +14,7 @@ Welcome to our AI Hackathon project repository! This project is focused on optim
 ### *Project Members:*
 - *ABHA MAHATO[Chika0411]:* Backend development, machine learning, Generative AI.
 - *VIVEK KUMAR:* Frontend development, automated billing, and database management.
-
+- *RAVIKANT KUMAR:*Frontend development, Business Analyst and Web development
 ### *Technologies Used:*
 - Machine Learning: XGBoost Regression, Adam Optimizer
 - Data Visualization: Power BI
